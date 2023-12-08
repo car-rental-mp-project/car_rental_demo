@@ -36,6 +36,18 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
 
+  # 977 fonts (and their variants) from fonts.google.com
+  google_fonts: ^6.1.0
+
+  # State & Navigation Management
+  get: ^4.6.6
+
+  # UI widget package
+  step_progress_indicator: ^1.0.2
+  line_icons: ^2.0.3
+  bubble_bottom_bar: ^2.0.0
+  badges: ^2.0.3
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
